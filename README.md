@@ -15,7 +15,7 @@ This is a simple unit converter tool built with SwiftUI.
 <img src="IMG_20241107_161859.jpg" alt="Unit Converter Screenshot" width="300"/>
 
 ## Video
--** Please click on the Image to see complete video
+- **Please click on the Image to see complete video
 
 [![Watch the demo](https://img.youtube.com/vi/0SRo7GG3vZs/0.jpg)](https://www.youtube.com/watch?v=0SRo7GG3vZs)
 

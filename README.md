@@ -2,8 +2,6 @@
 
 This is a simple unit converter tool built with SwiftUI.
 
-![Screenshot](screenshot.png) <!-- Add your screenshot image with this name in the repo to display it here -->
-
 ## Features
 
 - **Select Input and Output Units**: Choose from various units like meters, kilometers, feet, yards, and miles.
@@ -17,7 +15,8 @@ This is a simple unit converter tool built with SwiftUI.
 
 ## Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/0SRo7GG3vZs))
+[![Watch the demo](https://img.youtube.com/vi/0SRo7GG3vZs/0.jpg)](https://www.youtube.com/watch?v=0SRo7GG3vZs)
+
 
 
 ## Technologies Used

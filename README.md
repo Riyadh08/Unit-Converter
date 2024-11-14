@@ -10,14 +10,13 @@ This is a simple unit converter tool built with SwiftUI.
 - **User-Friendly Interface**: A clean and minimal design for easy unit conversions.
 
 ## Screenshot
-![Unit Converter Screenshot](IMG_20241107_161850.jpg)
-![Unit Converter Screenshot](IMG_20241107_161859.jpg)
+
+<img src="IMG_20241107_161850.jpg" alt="Unit Converter Screenshot" width="300"/>
+<img src="IMG_20241107_161859.jpg" alt="Unit Converter Screenshot" width="300"/>
 
 ## Video
 
 [![Watch the demo](https://img.youtube.com/vi/0SRo7GG3vZs/0.jpg)](https://www.youtube.com/watch?v=0SRo7GG3vZs)
-
-
 
 ## Technologies Used
 
@@ -30,5 +29,3 @@ This is a simple unit converter tool built with SwiftUI.
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Riyadh08/unit-converter.git
-
-

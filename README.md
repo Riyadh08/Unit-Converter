@@ -29,4 +29,4 @@ This is a simple unit converter tool built with SwiftUI.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Riyadh08/unit-converter.git
+   git clone https://github.com/Riyadh08/Unit-Converter.git
